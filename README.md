@@ -1,1 +1,1 @@
-# terraform_google_event_cloud_function
+# Terraform Event based Cloud Function Registry
